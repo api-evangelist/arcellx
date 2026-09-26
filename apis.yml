@@ -1,7 +1,6 @@
 aid: arcellx
 name: Arcellx
-description: 'Arcellx is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Arcellx is a biotechnology company focused on developing innovative cellular analysis platforms. The company aims to provide researchers with advanced tools for high‑throughput single‑cell profiling, enabling deeper insights into cellular heterogeneity and function. While detailed public information is limited, Arcellx positions itself within the life‑science technology sector, offering solutions that integrate hardware and software for comprehensive cellular data acquisition and analysis.'
 url: https://raw.githubusercontent.com/api-evangelist/arcellx/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -12,12 +11,14 @@ created: '2026-09-25'
 modified: '2026-09-25'
 tags:
 - Company
+- Biotechnology
+- Single-Cell
+- Life-Science
+- Platform
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-common:
-- type: Website
-  url: https://forgeglobal.com/arcellx_stock/
+common: []
